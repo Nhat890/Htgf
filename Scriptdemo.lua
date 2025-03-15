@@ -65,12 +65,12 @@ AddButton(Tab3o, {
     Callback = function()
 loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
 
-AddButton(Tabo, {
+AddButton(Tab3o, {
      Name = "Zap Hub",
     Callback = function()
 loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
 
-AddButton(Tabo, {
+AddButton(Tab4o, {
      Name = "Speedx Hub",
     Callback = function()
 	  --SPEED
